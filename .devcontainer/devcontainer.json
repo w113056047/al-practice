@@ -1,0 +1,10 @@
+{
+  "name": "x86-nasm-dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+//   "settings": {},
+//   "extensions": [],
+  "forwardPorts": [],
+  "postCreateCommand": "echo 'Ready for x86 NASM development!'"
+}
